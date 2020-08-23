@@ -1,0 +1,55 @@
+.title {
+	margin-left: 25%;
+	margin-top: 5vh;
+	border-bottom: solid 1px #072463;
+	width: 50%;
+}
+
+.title h1{
+	color: #072463;
+	font-family: "Roboto", sans-serif;
+}
+
+.title p{
+ 	color: #072463;
+ 	font-family: "Roboto", sans-serif;
+}
+
+.projects {
+	margin-top: 2%;
+	margin-left: 5%;
+	width: 90%;
+	border-radius: 5px;
+	border: solid 1px #072463;
+	font-family: "Roboto", sans-serif;
+}
+
+.projects ul {
+
+}
+
+.projects ul li {
+	width: 90%;
+	border: dotted 1px #fff;
+}
+
+.projects ul li h3{
+	color: #072463;
+}
+
+.projects ul li h5{
+	color: #072463;
+	float: right;
+	/*font-size: 80%;*/
+}
+
+
+.projects ul li p{
+	color: #072463;
+	/*font-size: 80%;*/
+}
+
+
+.projects ul li span{
+	color: #072463;
+}
